@@ -136,3 +136,62 @@ section {
   font-size: 16px;
   margin-top: 20px;
 }
+/* my resume */
+.resume-content {
+  display: flex;
+  justify-content: space-between;
+  gap: 35px;
+}
+.education-item {
+}
+
+.experience-item {
+}
+.resume-content h3 {
+  margin-bottom: 30px;
+}
+.resume-content p {
+  color: #757575;
+  font-weight: 400;
+  font-size: 16px;
+}
+/* dwonload button */
+.dwonload {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 113px;
+}
+/* footer */
+footer {
+  width: 100%;
+  height: 780px;
+}
+.footer-item {
+  display: flex;
+  gap: 117px;
+  padding: 130px 200px;
+  background: #fff8f3;
+}
+.item-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #474747;
+  margin-top: 20px;
+}
+.image-part {
+  margin-top: 30px;
+}
+input {
+  height: 64px;
+  padding-left: 10px;
+}
+textarea {
+  padding-left: 10px;
+}
+.form-item input[type="text"],
+input[type="email"],
+textarea {
+  margin-top: 25px;
+  width: 100%;
+  border: 0;
+}
